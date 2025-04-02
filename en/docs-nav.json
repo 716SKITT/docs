@@ -1,0 +1,9 @@
+{
+    "items": [{
+        "text": "Introduction",
+        "items": [{
+            "text": "Getting Started",
+            "path": "guides/getting-started.md"
+        }]
+    }]
+}
