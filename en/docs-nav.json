@@ -1,9 +1,27 @@
 {
     "items": [{
-        "text": "Introduction",
-        "items": [{
-            "text": "Getting Started",
-            "path": "guides/getting-started.md"
-        }]
-    }]
+            "text": "Introduction",
+            "items": [{
+                    "text": "Getting Started",
+                    "path": "guides/getting-started.md"
+                },
+                {
+                    "text": "Any Topic",
+                    "path": "any-topic.md"
+                }
+            ]
+        },
+        {
+            "text": "Allora",
+            "items": [{
+                    "text": "How to use CRM",
+                    "path": "allora/how-to-use-crm.md"
+                },
+                {
+                    "text": "How to use Statistics",
+                    "path": "allora/how-to-use-statistics.md"
+                }
+            ]
+        }
+    ]
 }
